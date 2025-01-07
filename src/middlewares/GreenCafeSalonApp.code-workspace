@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "GreenCafeSalonApp",
+			"path": "../../.."
+		},
+		{
+			"name": "salon-owner-app",
+			"path": "../../../../../Downloads/GreenCafeSalonApp-appointment/salon-owner-app"
+		}
+	],
+	"settings": {}
+}
